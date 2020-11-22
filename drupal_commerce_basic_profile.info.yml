@@ -58,6 +58,9 @@ dependencies:
   
   # Contrib
   - admin_toolbar
+  - admin_toolbar_tools
+  - admin_toolbar_search
+  - module_filter
   - swiftmailer
 themes:
   - bartik
