@@ -8,6 +8,7 @@
       "drupal/commerce": "^2.0",
       "drupal/admin_toolbar": "^2.0",
       "drupal/swiftmailer": "^2.0",
+      "drupal/bootstrap_barrio": "^5.1",
       "davyin/dyniva_admin": "*"
     }
 }
