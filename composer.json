@@ -1,0 +1,13 @@
+{
+  "name": "terryzwt/drupal_commerce_basic_profile",
+  "type": "drupal-custom-profile",
+  "description": "Commerce 2.x Basic profile",
+  "homepage": "https://github.com/drupalcommerce/commerce_base",
+  "license": "GPL-2.0+",
+  "require": {
+      "drupal/commerce": "^2.0",
+      "drupal/admin_toolbar": "^2.0",
+      "drupal/swiftmailer": "^2.0",
+      "davyin/dyniva_admin": "*"
+    }
+}
